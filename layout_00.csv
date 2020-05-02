@@ -1,0 +1,6 @@
+Nome Do Campo / Descricao,Conteudo,Tipo e Tamanho,Pos. Inic.,Pos. Final
+Tipo De Registro,FIXO “00”,N(02),1,2
+Nome Do Arquivo,FIXO “COTAHIST.AAAA”,X(13),3,15
+Codigo Da Origem,FIXO “BOVESPA”,X(08),16,23
+Data Da Geracao Do Arquivo,FORMATO “AAAAMMDD”,N(08),24,31
+Reserva,"PREENCHER COM BRANCOS",X(214),32,245
